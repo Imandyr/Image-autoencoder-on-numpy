@@ -1,2 +1,2 @@
-# Image_autoencoder_on_numpy
+# Image-autoencoder-on-numpy
 Image autoencoder created on plane numpy and cupy.
